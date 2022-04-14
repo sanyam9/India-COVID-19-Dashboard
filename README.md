@@ -1,4 +1,4 @@
-# India-COVID-19-Dashboard
+# India COVID-19 Dashboard
 An interactive dashboard for analytics and monitoring of COVID-19 Outbreak in India using Google Data Studio.
 ---
 Click [here](https://datastudio.google.com/reporting/7e023e04-9e55-4fb6-8b20-923df41694d0) to view the interactive dashboard.
